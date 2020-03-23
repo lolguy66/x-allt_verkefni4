@@ -1,2 +1,2 @@
 # x-allt_verkefni4
-fyrir verkefni í vefþ
+[repo sem virkar](https://github.com/lolguy66/vonandiverk4)
